@@ -3,7 +3,7 @@ const settings = {
   author: '‎',
   botName: "Zeyno bot Bot",
   botOwner: 'Endy', // Your name
-  ownerNumber: '212656245701', '85253382438', '212693877842', '5511967898841', '393926427789', '212775270361', //Set your number here without + symbol, just add country code & number without any space
+  ownerNumber: '212656245701', '85253382438', '212693877842', '5511967898841', '393926427789', '212775270361',
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   maxStoreMessages: 20, 
